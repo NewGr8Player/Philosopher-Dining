@@ -1,14 +1,16 @@
-# ÕÜÑ§¼Ò¾Í²ÍÎÊÌâ(Ô¤ÏÈ·ÖÅä½â¾öËÀËøÎÊÌâ)
+# å“²å­¦å®¶å°±é¤é—®é¢˜(é¢„å…ˆåˆ†é…è§£å†³æ­»é”é—®é¢˜)
 
-**Ê¹ÓÃVisual Stdio 2012»òÒÔÉÏ°æ±¾ÔËÐÐ**
+**ä½¿ç”¨Visual Stdio 2012æˆ–ä»¥ä¸Šç‰ˆæœ¬è¿è¡Œ**
 
-²Ëµ¥ÏîÄ¿£º"Ô¤ÏÈ·ÖÅäÑÝÊ¾",      IDM_WAITFORMULTIPLE
-²Ëµ¥ÏîÄ¿£º"¿ìËÙËÀËøÑÝÊ¾",      IDM_FASTDEADLOCK
-²Ëµ¥ÏîÄ¿£º"ÆÕÍ¨ËÀËøÑÝÊ¾",      IDM_SLOWDEADLOCK
-²Ëµ¥ÏîÄ¿£º"½áÊøËùÓÐÏß³Ì",      IDM_TERMINATETHREAD
-²Ëµ¥ÏîÄ¿£º"´´½¨¹¤×÷Ïß³Ì",      IDM_CREATETHREAD
-²Ëµ¥ÏîÄ¿£º"¹ÒÆðËùÓÐÏß³Ì",      IDM_SUSPENDTHREAD
-²Ëµ¥ÏîÄ¿£º"»Ö¸´ËùÓÐ½ø³Ì",      IDM_RESUMETHREAD
+```
+èœå•é¡¹ç›®ï¼š"é¢„å…ˆåˆ†é…æ¼”ç¤º",      IDM_WAITFORMULTIPLE
+èœå•é¡¹ç›®ï¼š"å¿«é€Ÿæ­»é”æ¼”ç¤º",      IDM_FASTDEADLOCK
+èœå•é¡¹ç›®ï¼š"æ™®é€šæ­»é”æ¼”ç¤º",      IDM_SLOWDEADLOCK
+èœå•é¡¹ç›®ï¼š"ç»“æŸæ‰€æœ‰çº¿ç¨‹",      IDM_TERMINATETHREAD
+èœå•é¡¹ç›®ï¼š"åˆ›å»ºå·¥ä½œçº¿ç¨‹",      IDM_CREATETHREAD
+èœå•é¡¹ç›®ï¼š"æŒ‚èµ·æ‰€æœ‰çº¿ç¨‹",      IDM_SUSPENDTHREAD
+èœå•é¡¹ç›®ï¼š"æ¢å¤æ‰€æœ‰è¿›ç¨‹",      IDM_RESUMETHREAD
+```
 
-"Ô¤ÏÈ·ÖÅäÑÝÊ¾","¿ìËÙËÀËøÑÝÊ¾","ÆÕÍ¨ËÀËøÑÝÊ¾"£º ÇÐ»»Ç°×îºÃ½áÊøÏß³Ì
-"¿ìËÙËÀËøÑÝÊ¾","ÆÕÍ¨ËÀËøÑÝÊ¾" £ºµ÷ÓÃº¯Êý»ù±¾ÏàÍ¬£¬ÐÝÃßÊ±¼ä³¤¶Ì²»Í¬
+> "é¢„å…ˆåˆ†é…æ¼”ç¤º","å¿«é€Ÿæ­»é”æ¼”ç¤º","æ™®é€šæ­»é”æ¼”ç¤º"ï¼š åˆ‡æ¢å‰æœ€å¥½ç»“æŸçº¿ç¨‹
+> "å¿«é€Ÿæ­»é”æ¼”ç¤º","æ™®é€šæ­»é”æ¼”ç¤º" ï¼šè°ƒç”¨å‡½æ•°åŸºæœ¬ç›¸åŒï¼Œä¼‘çœ æ—¶é—´é•¿çŸ­ä¸åŒ
